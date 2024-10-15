@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+#map2,
+body,
+html {
+  height: 100%;
+}
+
+.info {
+  padding: 6px 8px;
+  background: white;
+}
+
+.legend {
+  line-height: 18px;
+  color: #000000;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 1;
+}
